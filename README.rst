@@ -1,6 +1,6 @@
 mari0.rpc is a library/project that implements a Mari0 Discord RPC.
 
-.. image:: https://github.com/Starpelly/mari0.rpc/blob/master/github/placeholderimage.PNG
+.. image:: https://github.com/Starpelly/mari0.rpc/blob/master/github/anotherone.PNG
     :alt: Discord Example
 
 
